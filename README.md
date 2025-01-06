@@ -1,5 +1,3 @@
-Here’s the updated README with your changes:
-
 # 🕒 Time Management Tool 📅  
 _A smart time management tool for staying organized and productive!_
 
